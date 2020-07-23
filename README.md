@@ -7,8 +7,7 @@
 
 # Apache BookKeeper
 
-Apache BookKeeper is a scalable, fault tolerant and low latency storage service optimized for append-only workloads.
-
+Apache BookKeeper is a scalable, fault tolerant and low latency storage service optimized for append-only workload.
 It is suitable for being used in following scenarios:
 
 - WAL (Write-Ahead-Logging), e.g. HDFS NameNode.
